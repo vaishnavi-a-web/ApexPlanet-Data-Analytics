@@ -26,3 +26,21 @@ No missing values or duplicate records.
 Technology category has the highest sales.
 West region has the highest sales.
 Profit contains outliers.
+
+
+## Task 2 – SQL for Data Extraction
+
+### Tools Used
+- SQLite
+- DB Browser for SQLite
+- Python
+- Pandas
+- Jupyter Notebook
+
+### Topics Covered
+- Basic SQL Queries
+- Advanced SQL
+- Window Functions
+- Views
+- JOINs
+- Python + SQL Integration
